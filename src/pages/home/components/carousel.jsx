@@ -33,7 +33,7 @@ function MainSlider() {
             data-aos="fade-left"
             data-aos-delay="200"
           >
-            We take energy forward - making it safer, cleaner, and more efficient for people and the plan
+            We take energy forward - making it safer, cleaner, and more efficient for people and the planet
           </p>
         </Carousel.Caption>
       </Carousel.Item>
@@ -44,7 +44,7 @@ function MainSlider() {
           <p className="sliderCaptionMain defbodyFont" data-aos="fade-up">
             <b>
               {" "}
-              Empowering projects <br /> with precision
+              Empowering industries <br /> with precision and reliability
             </b>
           </p>
           <p
