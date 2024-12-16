@@ -33,7 +33,7 @@ function MainSlider() {
             data-aos="fade-left"
             data-aos-delay="200"
           >
-            We take energy forward - making it safer, cleaner, and more efficient for people and the planet
+            We're committed to advancing energy in a safer,cleaner, and more efficient way way for everyone. 
           </p>
         </Carousel.Caption>
       </Carousel.Item>
@@ -52,10 +52,9 @@ function MainSlider() {
             data-aos="fade-left"
             data-aos-delay="200"
           >
-            With our expertise in Engineering, Procurement, and Construction, we
-            drive efficiency and quality at every stage, helping your projects
-            reach completion on time and within budget. Trust VALTEC to deliver
-            solutions that meet the highest industry standards.
+            Leveraging our expertise, we offer preventive, proactive, reactive 
+            and predictive solutions for your operations and plants; designed to
+            enhance values and efficiency.
           </p>
         </Carousel.Caption>
       </Carousel.Item>
